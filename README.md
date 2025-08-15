@@ -28,7 +28,7 @@ Provide a robust and intelligent chatbot capable of retrieving, processing, and 
 - Formatting and clean presentation of information.
 - Scientific agent capable of multi-step reasoning before answering queries.
 - Two user interfaces: terminal and web-based.
-- **Flexible AI backend**: Uses Ollama with the Lama 3.1 model by default, but can also connect to **ChatGPT API, Anthropic, or a custom LLM** via Ollama.
+- **Flexible AI backend**: Uses Ollama with the Lama 3.2 model by default, but can also connect to **ChatGPT API, Anthropic, or a custom LLM** via Ollama.
 
 ## Technologies
 
